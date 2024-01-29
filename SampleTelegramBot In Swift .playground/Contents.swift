@@ -2,7 +2,6 @@ import Cocoa
 import Foundation
 import TelegramBotSDK
 
-// Replace the following with your actual bot token
 let bot = TelegramBot(token: "BOT_TOKEN_HERE")
 
 // Define the command for downloading TikTok images and videos
